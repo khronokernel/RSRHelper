@@ -81,6 +81,6 @@ PluginConfiguration ADDPR(config) {
     bootargBeta,
     arrsize(bootargBeta),
     KernelVersion::BigSur,
-    KernelVersion::Ventura,
+    KernelVersion::Sequoia,
     pluginStart
 };
